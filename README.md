@@ -57,7 +57,7 @@ addScaleY:　scaleYに加算
 addScaleZ:　scaleZに加算  
 transition
 
-注意) 初期値となる項目は設定値ならない  
+注意) 初期値となる項目は設定値がない  
      (例) translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1) => 実際の出力: ""
 
 ---
