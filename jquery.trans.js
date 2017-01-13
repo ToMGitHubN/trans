@@ -95,7 +95,7 @@ transition
 /****************************** 0.初期化 ******************************/
 
 
-var test_div = document.createElement("div");//css環境調査用のdivObject
+var test_div = document.createElement("div");//css環境調査用のdivElement
 
 
 /**
